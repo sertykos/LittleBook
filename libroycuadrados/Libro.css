@@ -1,0 +1,66 @@
+body 	{
+		font-family: "Cinzel", serif;
+		}
+
+nav 	{
+		margin: 5px 0px 20px 30px;
+		}
+
+nav>ul>li 	{
+			float: left;
+			border: 2px solid grey;
+			margin-right: 30px;
+			padding: 5px 10px;
+			background-color: yellow;
+			}
+
+.cf:before, .cf:after	{
+						content: " ";
+						display: table;
+						}
+.cf:after	{
+			clear: both;
+			}
+
+.titulo	{
+		font-size: 24px;
+		margin: 20px 0px;
+		}
+
+/*#divcuadrados	{
+				border: 4px solid yellow;
+				box-shadow: 10px 10px 10px  grey;
+				margin-top: 10px;
+				}
+
+.pointer:hover	{
+			cursor: pointer;
+			}
+.hidden	{
+		visibility: hidden;
+		}
+
+.inline_block	{
+				display: inline-block;
+				}
+
+#red	{
+		width: 250px;
+		height: 250px;
+		background-color: red;
+		}
+
+.cuadrados	{
+			width: 100px;
+			height: 100px;
+			background-color: red;
+			border: solid green 75px;
+			}
+
+.extra	{
+		box-sizing: border-box;
+		width: 250px;
+		height: 250px;
+		background-color: red;
+		border: solid green 75px;
+		}*/
